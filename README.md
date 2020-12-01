@@ -3,7 +3,7 @@ We visualize a dataset using 3 dimensionality reduction methods: PCA, MDS and Is
 #### The dataset
 The ["zoo" dataset](https://archive.ics.uci.edu/ml/datasets/zoo) in the UCI ML repository.
 #### Alogrithm implementation
-The code is written in python and through Jupyter notebook.As long as the corresponding python library is installed, it can be run.
+The code is written in python and through Jupyter notebook. As long as the corresponding python library is installed, it can be run.
 ##### PCA
 The sklearn module is used to perform PCA.
 ##### MDS
