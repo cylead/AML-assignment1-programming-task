@@ -16,4 +16,4 @@ The algorithm is implemented by myself. Floyd-Warshall algorithm is used to calc
 To get optimum k in the k-nearst connection part, I plot the results of k from 18 to 97 and from 37 to 96 respectively for the nomal isomap and isomap with weighted distance matrix input.
 
 ### Analysis
-The detailed analysis can be found in the ![report](https://github.com/yangBryants/AML-assignment1-programming-task/blob/main/report.pdf)
+The detailed analysis can be found in the [report](https://github.com/yangBryants/AML-assignment1-programming-task/blob/main/report.pdf)
